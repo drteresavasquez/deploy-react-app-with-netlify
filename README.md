@@ -47,9 +47,6 @@ export default firebaseConfig;
 ![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/2.png)
 
 6. Authorize Github if you have not already
-
-![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/Screen%20Shot%202020-11-09%20at%208.41.13%20PM.png)
-
 7. Select the repo that you want to deploy
 
 ![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/3.png)
