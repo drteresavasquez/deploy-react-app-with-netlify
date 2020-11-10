@@ -42,13 +42,21 @@ export default firebaseConfig;
 
 ![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/Screen%20Shot%202020-11-09%20at%208.41.13%20PM.png)
 
-1. Select Github or whichever tool you are using
+5. Select Github or whichever tool you are using
 
-1. Authorize Github if you have not already
+![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/2.png)
 
-1. Select the repo that you want to deploy
+6. Authorize Github if you have not already
 
-1. Update the settings as are shown below and click **Deploy Site**
+![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/Screen%20Shot%202020-11-09%20at%208.41.13%20PM.png)
+
+7. Select the repo that you want to deploy
+
+![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/3.png)
+
+8. Update the settings as are shown below and click **Deploy Site**
+
+![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/4.png)
 
 ## Update Environment Variables
 Your deploy should have finished, but you will notice that your site page is empty and there are console errors.
@@ -56,7 +64,11 @@ Your deploy should have finished, but you will notice that your site page is emp
 1. Navigate to `settings` > `deploys` > `environment`
 1. Add all the Environment variable keys and values as from your `.env` file as is shown below
 
+![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/5.png)
+
 ## Redeploy
 1. Navigate to `deploys` and select the **Trigger Deply** dropdown to redeploy
+
+![screen shot](https://github.com/drteresavasquez/deploy-react-app-with-netlify/blob/main/6.png)
 
 ## Site should be good to go!
