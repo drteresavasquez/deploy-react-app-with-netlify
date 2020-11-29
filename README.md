@@ -7,6 +7,7 @@ Netlify uses continuous deployment, which means when you push to your deployed b
 
 ## Create the `.env` file
 1. In the ROOT of your application, create a `.env` file
+1. Add `.env` to your `.gitignore` file
 1. Place the following in that file with your keys as the values
 ```
 REACT_APP_API_KEY=XXX
